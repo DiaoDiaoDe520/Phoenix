@@ -2,7 +2,7 @@
 #### How To Use The App
 
 ##### Launching The App
-1. At the device home screen, tap our app icon <img src="https://i.imgur.com/z8OgkHF.png" width=20>.
+1. At the device home screen.
 2. You will be presented with the home screen of our app. 
 Press "PLAY" to choose a level.
 3. On the level selection screen, tap on the level that you wish to play.
