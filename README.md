@@ -1,10 +1,9 @@
 Team ShunHeng:
-- [DiaoDiao](https://github.com/DiaoDiaoDe520/)
+- [DiaoDiao](https://github.com/DiaoDiaoDe520)
 - [Email](hui425087274@163.com)
 - [tel] (+86 13647771449)
 
-The app is available on both iPhone and iPad.  
-Get it at https://itunes.apple.com/sg/app/id1223383989
+The app is only available on iPhone.  
 
 # User Manual
 #### How To Use The App
