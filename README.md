@@ -1,7 +1,7 @@
 Team ShunHeng:
 - [DiaoDiao](https://github.com/DiaoDiaoDe520)
-- [Email](hui425087274@163.com)
-- [tel] (+86 13647771449)
+- Email: hui425087274@163.com
+- tel:   +86 13647771449
 
 The app is only available on iPhone.  
 
